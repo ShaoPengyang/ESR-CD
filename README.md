@@ -1,4 +1,8 @@
-### Breaking Sparsity 
+### Breaking Sparsity Barrier between Students and Concepts for Cognitive Diagnosis Models in Intelligent Education
+
+We have submitted this manuscript to TKDD. This repo includes the codes for ESR-CD and ASSIST data. 
+
+For MOOC-Radar data, please refer to https://github.com/THU-KEG/MOOC-Radar. We use the coarse version. We also provide data preprocessing file for MOOC Radar dataset. 
 
 Our environment:
 ```
@@ -12,6 +16,6 @@ networkx 2.6.3
 
 #### Assist
 ```
-cd assist-graph/CD
+cd codes
 python main_our.py
 ```
