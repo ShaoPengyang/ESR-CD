@@ -14,6 +14,7 @@ networkx 2.6.3
 
 #### ASSIST
 ```
-cd codes
+cd assist/codes
 python main_our.py
 ```
+#### MOOC-Radar
