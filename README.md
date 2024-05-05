@@ -2,8 +2,6 @@
 
 We have submitted this manuscript to TKDD. This repo includes the codes for ESR-CD and ASSIST data. 
 
-For MOOC-Radar data, please refer to https://github.com/THU-KEG/MOOC-Radar. We use the coarse version. We also provide data preprocessing file for MOOC Radar dataset. 
-
 Our environment:
 ```
 Python 3.9.7 
