@@ -33,9 +33,6 @@ def train(args):
     print("len of test dataset is: " + str(len(test_dataset)))
     loss_function = nn.BCELoss(reduction='none')
 
-    '''
-    update Q
-    '''
     net = NCDM(args, args.knowledge_n, args.exer_n, args.student_n)
     net = net.cuda()
     optimizer_net = optim.Adam(net.parameters(), lr=0.01)
