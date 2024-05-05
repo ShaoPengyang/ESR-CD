@@ -14,7 +14,7 @@ networkx 2.6.3
 ```
 
 
-#### Assist
+#### ASSIST
 ```
 cd codes
 python main_our.py
