@@ -20,3 +20,6 @@ python main_our.py
 We also include two representative baseline models (NCDM and KaNCD). 
 
 #### MOOC-Radar
+This dataset is too large to upload in a repo. Please refer to https://github.com/THU-KEG/MOOC-Radar and download the [coarse version](https://cloud.tsinghua.edu.cn/d/5443ee05152344c79419/). 
+
+Please first run "cd mooc/codes" and "python divide_data.py" to preprocess data. Then, you can run the codes by "python main_our.py". 
