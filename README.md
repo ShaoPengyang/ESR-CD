@@ -17,4 +17,6 @@ networkx 2.6.3
 cd assist/codes
 python main_our.py
 ```
+We also include two representative baseline models (NCDM and KaNCD). 
+
 #### MOOC-Radar
