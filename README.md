@@ -1,6 +1,4 @@
-### Breaking Sparsity Barrier between Students and Concepts for Cognitive Diagnosis Models in Intelligent Education 
-
-This repo includes the codes for the TKDD submission. 
+### This repo includes the codes for the TKDD submission: Breaking Sparsity Barrier between Students and Concepts for Cognitive Diagnosis Models in Intelligent Education 
 
 Our environment:
 ```
