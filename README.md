@@ -1,4 +1,4 @@
-## This repo includes the codes for the submission: Breaking Sparsity Barrier between Students and Concepts for Cognitive Diagnosis Models in Intelligent Education 
+## This repo includes the codes for the submission: Breaking Student-Concept Sparsity Barrier for Cognitive Diagnosis 
 
 Our environment:
 ```
