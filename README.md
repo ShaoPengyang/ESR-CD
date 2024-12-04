@@ -27,6 +27,6 @@ Please first run "python divide_data.py" to preprocess data.
 
 Then, you can run the codes by 
 ```
-cd mooc/code
+cd mooc/codes
 python main_our.py
 ```
