@@ -30,3 +30,17 @@ Then, you can run the codes by
 cd mooc/codes
 python main_our.py
 ```
+
+If you use the codes in this repo, please refer to 
+```
+@article{shao2025breaking,
+  title={Breaking student-concept sparsity barrier for cognitive diagnosis},
+  author={Shao, Pengyang and Zhang, Kun and Gao, Chen and Chen, Lei and Cai, Miaomiao and Wu, Le and Li, Yong and Wang, Meng},
+  journal={Frontiers of Computer Science},
+  volume={19},
+  number={11},
+  pages={1911363},
+  year={2025},
+  publisher={Springer}
+}
+```
